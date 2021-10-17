@@ -1,3 +1,12 @@
+Estudiante 1: Lucciano Franco
+correo: l.francom@uniandes.edu.co
+codigo: 202111458
+Estudiante 2: Lina Ojeda 
+correo: l.ojedaa@uniandes.edu.co
+codigo: 202112324
+
+
+
 #ISIS1225 - Librerias de soporte
 
 Este proyecto contiene los Tipos abstractos de datos, estructuras de datos y algoritmos requeridos por el curso ISIS1225-Estructuras de Datos y Algoritmos
